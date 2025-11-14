@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a first-year engineering student, focusing on learning Python programming. I am excited to explore new technologies and develop my problem-solving skills to tackle real-world challenges.<br>
+I am currently a second-year engineering student, focusing on learning Python programming. I am excited to explore new technologies and develop my problem-solving skills to tackle real-world challenges.<br>
 
 
 
